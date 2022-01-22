@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tracking/static/css/main.6d3d4d41.css",
+    "main.js": "/tracking/static/js/main.042540c4.js",
+    "service-worker.js": "/tracking/service-worker.js",
+    "index.html": "/tracking/index.html",
+    "main.6d3d4d41.css.map": "/tracking/static/css/main.6d3d4d41.css.map",
+    "main.042540c4.js.map": "/tracking/static/js/main.042540c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d3d4d41.css",
+    "static/js/main.042540c4.js"
+  ]
+}
